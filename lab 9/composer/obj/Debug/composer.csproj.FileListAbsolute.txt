@@ -1,0 +1,33 @@
+C:\Users\bohsh\Desktop\visual\Builder\composer\composer\bin\Debug\composer.exe.config
+C:\Users\bohsh\Desktop\visual\Builder\composer\composer\bin\Debug\composer.exe
+C:\Users\bohsh\Desktop\visual\Builder\composer\composer\bin\Debug\composer.pdb
+C:\Users\bohsh\Desktop\visual\Builder\composer\composer\obj\Debug\composer.csproj.AssemblyReference.cache
+C:\Users\bohsh\Desktop\visual\Builder\composer\composer\obj\Debug\composer.csproj.SuggestedBindingRedirects.cache
+C:\Users\bohsh\Desktop\visual\Builder\composer\composer\obj\Debug\composer.Form1.resources
+C:\Users\bohsh\Desktop\visual\Builder\composer\composer\obj\Debug\composer.Properties.Resources.resources
+C:\Users\bohsh\Desktop\visual\Builder\composer\composer\obj\Debug\composer.csproj.GenerateResource.cache
+C:\Users\bohsh\Desktop\visual\Builder\composer\composer\obj\Debug\composer.csproj.CoreCompileInputs.cache
+C:\Users\bohsh\Desktop\visual\Builder\composer\composer\obj\Debug\composer.exe
+C:\Users\bohsh\Desktop\visual\Builder\composer\composer\obj\Debug\composer.pdb
+C:\Users\38095\Downloads\composer\composer\bin\Debug\composer.exe.config
+C:\Users\38095\Downloads\composer\composer\bin\Debug\composer.exe
+C:\Users\38095\Downloads\composer\composer\bin\Debug\composer.pdb
+C:\Users\38095\Downloads\composer\composer\obj\Debug\composer.csproj.AssemblyReference.cache
+C:\Users\38095\Downloads\composer\composer\obj\Debug\composer.csproj.SuggestedBindingRedirects.cache
+C:\Users\38095\Downloads\composer\composer\obj\Debug\composer.Form1.resources
+C:\Users\38095\Downloads\composer\composer\obj\Debug\composer.Properties.Resources.resources
+C:\Users\38095\Downloads\composer\composer\obj\Debug\composer.csproj.GenerateResource.cache
+C:\Users\38095\Downloads\composer\composer\obj\Debug\composer.csproj.CoreCompileInputs.cache
+C:\Users\38095\Downloads\composer\composer\obj\Debug\composer.exe
+C:\Users\38095\Downloads\composer\composer\obj\Debug\composer.pdb
+D:\Аня\4 курс\composer\composer\bin\Debug\composer.exe.config
+D:\Аня\4 курс\composer\composer\bin\Debug\composer.exe
+D:\Аня\4 курс\composer\composer\bin\Debug\composer.pdb
+D:\Аня\4 курс\composer\composer\obj\Debug\composer.csproj.AssemblyReference.cache
+D:\Аня\4 курс\composer\composer\obj\Debug\composer.csproj.SuggestedBindingRedirects.cache
+D:\Аня\4 курс\composer\composer\obj\Debug\composer.Form1.resources
+D:\Аня\4 курс\composer\composer\obj\Debug\composer.Properties.Resources.resources
+D:\Аня\4 курс\composer\composer\obj\Debug\composer.csproj.GenerateResource.cache
+D:\Аня\4 курс\composer\composer\obj\Debug\composer.csproj.CoreCompileInputs.cache
+D:\Аня\4 курс\composer\composer\obj\Debug\composer.exe
+D:\Аня\4 курс\composer\composer\obj\Debug\composer.pdb
